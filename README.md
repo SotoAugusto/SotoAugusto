@@ -23,6 +23,6 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SotoAugusto&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&border=DDDDDD00)](https://git.io/streak-stats)
-![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/generated/overview.svg)
 ![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/blob/output/generated/languages.svg)
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=amirsoto2)](https://www.last.fm/user/amirsoto2)
