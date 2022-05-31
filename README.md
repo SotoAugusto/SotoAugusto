@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 <h3 align="center"> Metrics </h3>
   
@@ -27,7 +27,7 @@
 
 </td>
 
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <h3 align="center"> Streak </h3>
 
