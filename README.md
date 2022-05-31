@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://sotoaugusto.github.io/](https://sotoaugusto.github.io/)
+- 👨‍💻 All of my projects are available [here](https://sotoaugusto.github.io/)
 
 - 📫 How to reach me **sotoaugusto@gmail.com**
 
