@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sotoaugusto&show_icons=true&locale=en" alt="sotoaugusto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sotoaugusto&" alt="sotoaugusto" /></p>
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=amirsoto2)](https://www.last.fm/user/amirsoto2)
