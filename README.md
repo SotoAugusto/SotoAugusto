@@ -16,18 +16,33 @@
 <h3 align="left" >Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> Metrics </h3>
+![Metrics](https://metrics.lecoq.io/SotoAugusto?template=classic&base.header=0&languages=1&activity=1&achievements=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.skipped=SotoAugusto&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FMexico_City)
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center"> Streak </h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SotoAugusto&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&border=DDDDDD00)](https://git.io/streak-stats)
+<h3 align="center"> Stats </h3>
+![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/output/generated/overview.svg)
+<h3 align="center"> Music </h3>
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=amirsoto2)](https://www.last.fm/user/amirsoto2)
+</td>
+</tr>
+
+</table>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sotoaugusto&show_icons=true&locale=en&layout=compact" alt="sotoaugusto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sotoaugusto&show_icons=true&locale=en" alt="sotoaugusto" /></p> -->
-<p align="left" width="50%>
-![Metrics](https://metrics.lecoq.io/SotoAugusto?template=classic&base.header=0&languages=1&activity=1&achievements=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.skipped=SotoAugusto&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FMexico_City)
-</p>
 
-<p align="right" width="50%>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SotoAugusto&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&border=DDDDDD00)](https://git.io/streak-stats)
-
-![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/output/generated/overview.svg)
 <!-- ![](https://raw.githubusercontent.com/SotoAugusto/github-stats-transparent/output/generated/languages.svg) -->
-
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=amirsoto2)](https://www.last.fm/user/amirsoto2)
-  </p>
