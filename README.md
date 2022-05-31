@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Augusto Soto</h1>
 <h3 align="center">A Computer Systems Engineering student, aspiring frontend developer from México</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sotoaugusto&theme=tokyonight&margin-w=15" alt="sotoaugusto" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://sotoaugusto.github.io/](https://sotoaugusto.github.io/)
