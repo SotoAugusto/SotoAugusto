@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Augusto Soto</h1>
 <h3 align="center">A Computer Systems Engineering student, aspiring frontend developer from México</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, Python, PHP**
 - 👨‍💻 All of my projects are available [here](https://sotoaugusto.github.io/)
 - 📫 How to reach me **sotoaugusto@gmail.com**
 
