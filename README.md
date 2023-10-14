@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Python, PHP**
 - 👨‍💻 All of my projects are available [here](https://sotoaugusto.github.io/)
-- 📫 How to reach me **sotoaugustoa@gmail.com**
+- 📫 How to reach me **sotoaugusto@gmail.com**
 
 <table>
 <tr>
