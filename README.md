@@ -56,7 +56,7 @@ A Computer Systems Engineer, aspiring Web Developer from México
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Music
+### 🎵 I'm currently listening to
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=amirsoto2)](https://www.last.fm/user/amirsoto2)
 
