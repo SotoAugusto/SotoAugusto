@@ -40,6 +40,13 @@ A Computer Systems Engineer, aspiring Web Developer from México
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
+                    </a>
+                      <a href="https://www.freecodecamp.org/SotoAugusto" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" />
+                    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="32" height="32" />
+                    </picture>
                     </a></p>
 
 ### 📊 GitHub Stats
