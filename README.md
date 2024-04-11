@@ -57,6 +57,7 @@ A Computer Systems Engineer, aspiring Web Developer from México
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Persuasion](https://www.goodreads.com/review/show/3669848668?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 ### 🎵 I'm currently listening to
