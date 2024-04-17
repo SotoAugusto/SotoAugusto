@@ -49,11 +49,11 @@ A Computer Systems Engineer, aspiring Web Developer from México
                     </picture>
                     </a></p>
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SotoAugusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[](https://github-readme-stats.vercel.app/api?username=SotoAugusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SotoAugusto&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SotoAugusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SotoAugusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
