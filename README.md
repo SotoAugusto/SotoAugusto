@@ -47,7 +47,15 @@ A Computer Systems Engineer, aspiring Web Developer from México
                     <source media="(prefers-color-scheme: light)" srcset="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" />
                     <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="32" height="32" />
                     </picture>
-                    </a></p>
+                    </a>
+                      <a href="https://www.salesforce.com/trailblazer/sotoaugusto" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://www.salesforceicons.com/SLDS/icons/utility/trailhead.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://www.salesforceicons.com/SLDS/icons/utility/trailhead_alt.svg" />
+                    <img src="https://www.salesforceicons.com/SLDS/icons/utility/trailhead.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+</p>
 
 <!--### 📊 GitHub Stats
 
