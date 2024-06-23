@@ -58,7 +58,7 @@ A Computer Systems Engineer, aspiring Web Developer from México
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [El hombre en busca de sentido](https://www.goodreads.com/review/show/6493994884?utm_medium=api&utm_source=rss) by Viktor E. Frankl (⭐️4.23)
+- [El hombre en busca de sentido](https://www.goodreads.com/review/show/6493994884?utm_medium=api&utm_source=rss) by Viktor E. Frankl (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 ### 🎵 I'm currently listening to
