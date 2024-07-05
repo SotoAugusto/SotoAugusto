@@ -8,7 +8,7 @@ A Computer Systems Engineer, aspiring Web Developer from México
 
 * 📫  You can contact me at [sotoaugustoa@gmail.com](mailto:sotoaugustoa@gmail.com)
 
-* 🧠  I'm learning Astro, React
+* 🧠  I'm currently learning Apex and the Salesforce Platform on Trailhead
 
 ### 💻 Skills
 
