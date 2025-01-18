@@ -59,7 +59,7 @@ A Computer Systems Engineer, aspiring Web Developer from México
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [La metamorfosis](https://www.goodreads.com/review/show/7216400612?utm_medium=api&utm_source=rss) by Franz Kafka (⭐️3.76)
-- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/7177837918?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/7177837918?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.42)
 <!-- GOODREADS-LIST:END -->
 
 ### 🎵 I'm currently listening to
